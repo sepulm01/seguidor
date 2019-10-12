@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seguidor GPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="activa_GPS">Activar seguimiento GPS</string>
+    <string name="detiene_GPS">Detener seguimineto GPS</string>
+    <string name="texto1">Identificador</string>
+</resources>
